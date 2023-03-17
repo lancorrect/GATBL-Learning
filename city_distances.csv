@@ -1,0 +1,8 @@
+﻿km,hangzhou,jiaxing,nanjing,nantong,shanghai,shaoxing,suzhou
+hangzhou,0,85,287,237,182,48.5,142
+jiaxing,85,0,281,163,99,112,72
+nanjing,287,281,0,223,302,333,213
+nantong,237,163,223,0,115,267,100
+shanghai,182,99,302,115,0,210,91
+shaoxing,48.5,112,333,267,210,0,170
+suzhou,142,72,213,100,91,170,0
